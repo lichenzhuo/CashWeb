@@ -3,7 +3,7 @@
     <div class="footer-main">
       <div class="f-first">
         <div class="logo pic" >
-          <img src="../../static/img/vinacash.png" alt="">
+          <img style="height:120%" src="../../static/img/vinavay.png" alt="">
         </div>
       </div>
       <div >

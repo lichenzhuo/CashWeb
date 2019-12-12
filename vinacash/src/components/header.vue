@@ -3,7 +3,7 @@
     <div class="header-main" >
       <div class="header-left">
         <div class="logo pic">
-          <img src="static/img/logo.png">
+          <img src="static/img/logo_1.png">
         </div>
         <div class="logo-title">
           vinacash
