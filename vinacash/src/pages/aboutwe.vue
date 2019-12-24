@@ -13,7 +13,7 @@
         <div class="mg_auto">
           <h2 class="con-title mb_70">Giới thiệu sản phẩm</h2>
           <div class="topimg flex flex-wrap flex-content-center flex-justify-center">
-            <p class="t1">Vinacash là sản phẩm vay tài chính rất an tâm. Thông tin các nhận quá ít</p>
+            <p class="t1">Vinavay là sản phẩm vay tài chính rất an tâm. Thông tin các nhận quá ít</p>
             <p class="t1">Quy trình thẩm định đơn giản, Tỷ lệ thông qua 90% trở lên</p>
             <p class="t1">Nhận tiền nhanh, Giám sát bởi đội ngũ chuyên nghiệp</p>
             <p class="t1">Nhận tiền nhanh, Giám sát bởi đội ngũ chuyên nghiệp</p>
@@ -35,7 +35,7 @@
                   </div>
                   
                   <div class="box flex flex-wrap flex-content-center">
-                    <p class="t2 mb_10">Vinacash là 1 Công ty chuyên tài chính vi mô. Chúng tôi có đội ngũ vô cùng chuyên nghiệp</p>
+                    <p class="t2 mb_10">Vinavay là 1 Công ty chuyên tài chính vi mô. Chúng tôi có đội ngũ vô cùng chuyên nghiệp</p>
                     <p class="t2 mb_10">Chúng tôi có đội ngũ kinh nghiệm vô cùng phong phúChúng tôi có quy trình nghề nghiệp chuẩn mực</p>
                     <p class="t2 mb_10">Chúng tôi có thái độ phục vụ đại chúng</p>
                     <p class="t2 mb_10">Chúng tôi ở đây, Bạn có thể trải nghiệm sự phục vụ cao cấp</p>
