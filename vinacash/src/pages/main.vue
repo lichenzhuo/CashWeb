@@ -6,7 +6,7 @@
 
       <div class="banner" id="banner" >
         <div class="banner-main">
-          <h3>Vinacash lựa chọn an toàn của bạn</h3><br>
+          <h3>Vinavay lựa chọn an toàn của bạn</h3><br>
           <p>đội ngũ với thái độ chuyên nghiệp nhất, tạo nên sản phẩm 
 tài chính an tâm nhất</p>
         </div>

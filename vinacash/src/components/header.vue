@@ -6,7 +6,7 @@
           <img src="static/img/logo_1.png">
         </div>
         <div class="logo-title">
-          vinacash
+          Vinavay
         </div>
       </div>
       <nav class="header-right">

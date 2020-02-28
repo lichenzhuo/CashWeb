@@ -7,8 +7,8 @@
         </div>
       </div>
       <div >
-        <p class="title">Vinacash</p>
-        <p class="con">Vinacash</p>
+        <p class="title">Vinavay</p>
+        <p class="con">Vinavay</p>
       </div>
         
       <div >
