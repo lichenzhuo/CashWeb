@@ -10,7 +10,7 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-# 开启本地服务后，将URL替换成本地ip地址（如192.168.1.1:端口），端口号不变
+# 开启本地服务后，将URL替换成本地ip地址或者localhost（如192.168.1.1:端口），端口号不变
 # build for production with minification
 npm run build
 
